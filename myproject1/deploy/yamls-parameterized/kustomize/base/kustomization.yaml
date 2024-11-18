@@ -1,0 +1,19 @@
+resources:
+  - customers-service.yaml
+  - customers-vcapasenv-secret.yaml
+  - frontend-service.yaml
+  - frontend-vcapasenv-secret.yaml
+  - inventory-deployment.yaml
+  - orders-vcapasenv-secret.yaml
+  - gateway-service.yaml
+  - gateway-vcapasenv-secret.yaml
+  - gateway-vcapasspringbootproperties-secret.yaml
+  - index-docker-io-imagepullsecret-secret.yaml
+  - orders-service.yaml
+  - customers-deployment.yaml
+  - inventory-vcapasenv-secret.yaml
+  - frontend-deployment.yaml
+  - gateway-deployment.yaml
+  - inventory-service.yaml
+  - orders-deployment.yaml
+  - orders-vcapasspringbootproperties-secret.yaml

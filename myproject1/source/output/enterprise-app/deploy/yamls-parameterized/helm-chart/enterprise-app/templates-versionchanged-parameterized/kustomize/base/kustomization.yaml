@@ -1,0 +1,10 @@
+resources:
+  - gateway-vcapasenv-secret.yaml
+  - orders-service.yaml
+  - inventory-service.yaml
+  - orders-vcapasenv-secret.yaml
+  - customers-service.yaml
+  - enterprise-app-ingress.yaml
+  - frontend-service.yaml
+  - frontend-vcapasenv-secret.yaml
+  - gateway-service.yaml
